@@ -1,0 +1,3 @@
+To create a folder in GitHub, add a forward-slash to the end of your file name when creating a file for your repository.
+Such as folder/
+Instead of e.g. file.php
