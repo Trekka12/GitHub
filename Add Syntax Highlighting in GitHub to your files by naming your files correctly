@@ -1,0 +1,8 @@
+To add Syntax Highlighting to your files in GitHub, make sure the files have the correct file extension for the syntax highlighting your are looking for.
+
+For example:
+Name files ".php" at the end, to get Syntax Highlighting for PHP code.
+Name files ".tpl" at the end and as file extension to activate syntax highlighting of Smarty Templating Language
+".html" for HTML
+".css" for CSS
+etc.
